@@ -16,7 +16,7 @@ const Contact = () => {
       <div className="download">
       <a
         href={resume}
-        download="Aniket Karpe Resume"
+        download="Aniket Resume"
         target="_blank"
         rel="noreferrer"
       >
