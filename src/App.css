@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+@media only screen and (max-width: 720px){
+  .App{
+    width: 100vw;
+  }
+}
